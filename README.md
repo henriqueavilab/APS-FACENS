@@ -6,7 +6,7 @@ Projeto desenvolvido como parte da Avaliação Prática Supervisionada (APS), co
 
 ## 📌 Descrição
 
-Este projeto consiste em um **protótipo de site interativo** que contabiliza os cliques do usuário em um botão. A cada clique, o número é atualizado dinamicamente na tela, proporcionando uma experiência simples e funcional de interação com o DOM via JavaScript.
+Este projeto consiste em um **protótipo de site interativo** que contabiliza os cliques do usuário em um botão. A cada clique, o número é atualizado dinamicamente na tela, proporcionando uma experiência simples e funcional de interação via JavaScript.
 
 ---
 
